@@ -1,1 +1,1 @@
-# Nexys :: Blog
+Nexys :: Blog
