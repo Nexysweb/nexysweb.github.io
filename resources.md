@@ -11,6 +11,7 @@ permalink: /resources/
 * [startbootstrap.com](http://startbootstrap.com) - excellent
 * [wrapbootstrap.com](http://wrapbootstrap.com)
 * [bootstrapzero.com](http://www.bootstrapzero.com)
+* [ThemeForest](http://themeforest.net/?ref=clickor)
 
 ## Snippets
 
@@ -52,3 +53,4 @@ permalink: /resources/
 * [Color picker of w3 School](http://www.w3schools.com/tags/ref_colorpicker.asp)
 * [Combine PDFs](http://www.pdfconvertonline.com/add-pdf-watermark.html) 
 * [PDF buddy](https://www.pdfbuddy.com/) - but need account
+* [Video Hive](http://videohive.net/) - for videos 
