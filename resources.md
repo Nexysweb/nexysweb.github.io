@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-# Resources
+
 
 ## Templates
 
@@ -15,8 +15,6 @@ permalink: /resources/
 * [bootstrapzero.com](http://www.bootstrapzero.com)
 
 ## Snippets
-
-<h3>Snippets</h3>
 
 * [bootsnipp.com](http://bootsnipp.com) - snippets to get ideas
 * [Onsen UI](http://components.onsen.io/patterns) -  web components for Mobile Devices
