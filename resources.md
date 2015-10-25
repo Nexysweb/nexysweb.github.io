@@ -50,6 +50,7 @@ permalink: /resources/
 
 ## Misc
 * [Generate Favicon](http://favicon-generator.org/) -  16x16
+* [Draw favicon](http://www.favicon.cc/)
 * [Color picker of w3 School](http://www.w3schools.com/tags/ref_colorpicker.asp)
 * [Combine PDFs](http://www.pdfconvertonline.com/add-pdf-watermark.html) 
 * [PDF buddy](https://www.pdfbuddy.com/) - but need account
