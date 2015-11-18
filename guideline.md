@@ -4,6 +4,9 @@ title: Coding Guidelines
 permalink: /guideline/
 ---
 
+## General
+* Indentation: code is indented according to best practices. If possible do not indent with tabs but with 2 spaces [see here](http://programmers.stackexchange.com/questions/57/tabs-versus-spaces-what-is-the-proper-indentation-character-for-everything-in-e)
+
 ## FrontEnd
 * CSS should always be in the header section. Not in the body
 * It is ok to put JS in body but at the end of the body and if possible all code between
