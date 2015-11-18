@@ -1,3 +1,9 @@
+---
+layout: page
+title: Guidelines
+permalink: /guideline/
+---
+
 # Code Guidelines
 
 ## FrontEnd
