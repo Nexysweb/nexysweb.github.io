@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Guidelines
+title: Coding Guidelines
 permalink: /guideline/
 ---
-
-# Code Guidelines
 
 ## FrontEnd
 * CSS should always be in the header section. Not in the body
