@@ -17,7 +17,7 @@ permalink: /guideline/
 * Since everything is versioned no need to pollute files with unnecessary meta information like author, date_created and so on
 * Everytime something new has been done and the code compiles - commit
 * Work on a separate branch, when happy with the result create a pull-request. Do not merge onto `master` without having code reviewed
-* Don't commit on `master` if code does not compile
+* Don't commit on `master` if code does not compile and tests do not run
 * Never stop working without having pushed. If code does not compile, create a new branch
 
 ## BackEnd
