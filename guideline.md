@@ -21,8 +21,8 @@ permalink: /guideline/
 * Never stop working without having pushed. If code does not compile, create a new branch
 
 ## BackEnd
+* Scala coding: check out [naming conventions](http://docs.scala-lang.org/style/naming-conventions.html)
 * All functions documented unless already documented in underlying trait or abstract class
-* Respect a strict MVC architecture
 * When writing a class/object/case class, avoid using the name of the class in the methods. E.g. Object Movie should not contain a method getMovie but rather simpy get()
 * Use functional style whenever possible; i.e. favor `map` over `for`-loops etc.
 * Use dynamic reference to link whenever possible; i.e. @routes...
