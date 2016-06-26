@@ -1,3 +1,9 @@
+---
+layout: page
+title: Basic Bash Cmds 
+permalink: /unixbasiccmd/
+---
+
 * `cd`: change directory
 * `ls`: list directory content
 * `mkdir`: make directory
