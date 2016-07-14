@@ -18,3 +18,7 @@ permalink: /unixbasiccmd/
 
 * `commit`: `git commit -a -m "my change"`
 * `push`: `git push origin master`
+
+
+## Node
+* Run: `nodemon app.js`
