@@ -15,7 +15,7 @@ permalink: /unixbasiccmd/
 
 
 ## Git
-
+* `pull`: `git pull origin master`
 * `commit`: `git commit -a -m "my change"`
 * `push`: `git push origin master`
 
