@@ -11,3 +11,10 @@ permalink: /unixbasiccmd/
 * `cat`: viauslize file
 * `nano`: edit/view file
 * `tesseract`: OCR engine
+* 
+
+
+## Git
+
+* `commit`: `git commit -a -m "my change"`
+* `push`: `git push origin master`
